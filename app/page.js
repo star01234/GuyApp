@@ -111,7 +111,7 @@ export default function Page() {
               <MenuIcon />
             </IconButton>
             <Typography variant="h6" component="div" sx={{ flexGrow: 1 }}>
-              Fah App CryptoExchange
+              GuyApp CryptoExchange
             </Typography>
 
             {!isActive ? (
